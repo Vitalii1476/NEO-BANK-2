@@ -1,1 +1,3 @@
-# NEO-BANK-2
+# NEO-BANK
+
+Basic Android project structure.
